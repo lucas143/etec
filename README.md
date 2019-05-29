@@ -21,7 +21,7 @@ echo 'Hello World';
 
 ### C#
 ```c#
-stativ void Main()
+static void Main()
 {
 Console.write("Hello World");
 Console.ReadKey();
